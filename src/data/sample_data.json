@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "point 1",
+        "POINT_ID": 100,
+        "UPLOAD": "50 mbps",
+        "DOWNLOAD": "50 mbps",
+        "PING": "10ms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0644158382745, -80.62386672007591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "point 2",
+        "POINT_ID": 101,
+        "UPLOAD": "20 mbps",
+        "DOWNLOAD": "30 mbps",
+        "PING": "40ms"
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.064569, -80.624619]
+      }
+    }
+  ]
+}
